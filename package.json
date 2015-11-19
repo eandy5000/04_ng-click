@@ -1,0 +1,15 @@
+{
+  "name": "04_ng-click",
+  "version": "1.0.0",
+  "description": "angular practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andy E",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.4.7",
+    "bootstrap": "^3.3.5"
+  }
+}
